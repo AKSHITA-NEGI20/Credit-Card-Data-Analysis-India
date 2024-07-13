@@ -1,3 +1,4 @@
+![download](https://github.com/user-attachments/assets/72ebd45b-e98f-4c11-ac1b-46ac68abf415)
 
 # SQL-portfolio-project
 This analysis tells in great detail just exactly how the Indian spends by presenting itself of a sum of credit card transactions from all Indians across all states in India through all departments. This analysis gives the big picture on where money is being spent in India, including gender and  card type used for each transaction, the city with the greatest spending, and even the kind of expenses incurred. 
