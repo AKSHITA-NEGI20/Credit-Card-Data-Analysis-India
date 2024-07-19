@@ -35,8 +35,9 @@ it reaches a cumulative of 1000000 total spends(We should have 4 rows in the o/p
 
 7- which card and expense type combination saw highest month over month growth in Jan-2014.
 
-9- during weekends which city has highest total spend to total no of transcations ratio .
-10- which city took least number of days to reach its 500th transaction after the first transaction in that city.
+8- during weekends which city has highest total spend to total no of transcations ratio .
+
+9- which city took least number of days to reach its 500th transaction after the first transaction in that city.
 
 
 
