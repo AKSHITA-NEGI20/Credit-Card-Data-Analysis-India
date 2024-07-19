@@ -45,10 +45,16 @@ it reaches a cumulative of 1000000 total spends(We should have 4 rows in the o/p
 
 The dataset likely contains various features related to credit card spending habits, such as:
 
-Customer ID: Unique identifier for each customer.
-Age: Age of the customer.
-Gender: Gender of the customer (male/female).
-Income: Annual income of the customer.
-Spending Score: Score assigned based on spending behavior.
-Credit Limit: Maximum credit limit assigned to the customer.
-Transaction Count: Number of transactions made by the customer.
+Customer ID: Unique identifier for each customer
+
+Age: Age of the customer
+
+Gender: Gender of the customer (male/female)
+
+Income: Annual income of the customer
+
+Spending Score: Score assigned based on spending behavior
+
+Credit Limit: Maximum credit limit assigned to the customer
+
+Transaction Count: Number of transactions made by the customer
