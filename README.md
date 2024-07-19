@@ -1,8 +1,5 @@
 
-![dow![download (1)](https://github.com/user-attachments/assets/5894fed6-4c47-410d-83bb-b8ef1fbef6ab)
-nload](h![images (3)](https://github.com/user-attachments/assets/e828597b-838e-46b8-9d1e-331d7813507a)
-ttps://github.com/user-attachments/assets/f6d1ee29-381f-4622-bc6e-bd62a7e3db0d)
-![download](https://github.com/user-attachments/assets/a4f93bba-c954-4dfc-b1c3-0351be5c0573)
+![download (2)](https://github.com/user-attachments/assets/0aa37545-cab7-42d8-bb1d-3d3db89a3bf3)
 
 # Credit Card Data Analysis-India
 This analysis tells in great detail just exactly how the Indian spends by presenting itself of a sum of credit card transactions from all Indians across all states in India through all departments. This analysis gives the big picture on where money is being spent in India, including gender and card type used for each transaction, the city with the greatest spending, and even the kind of expenses incurred.
