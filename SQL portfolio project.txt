@@ -1,4 +1,4 @@
-SQL portfolio project.https://github.com/AKSHITA-NEGI20/SQL-portfolio-project
+Credit Card Data Analysis-India.https://github.com/AKSHITA-NEGI20/SQL-portfolio-project
 
 download credit card transactions dataset from below link :
 https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
