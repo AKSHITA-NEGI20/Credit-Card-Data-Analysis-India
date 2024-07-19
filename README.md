@@ -1,7 +1,4 @@
-![images](https://github.com/user-attachments/assets/2c6eeeab-dd17-4b22-a9d9-fd425ca9f471)
 
-![images (4)](https://github.com/user-attachments/assets/b2af2cfc-c64c-4fe4-94ae-2f0ad169a94e)
-![images (2)](https://github.com/user-attachments/assets/d5dbefdf-3414-49fb-a6ca-c49b2cd5884d)
 ![images (3)](https://github.com/user-attachments/assets/c424ccd6-7041-4679-aff1-79a252b36b4c)
 
 # Credit Card Data Analysis-India
