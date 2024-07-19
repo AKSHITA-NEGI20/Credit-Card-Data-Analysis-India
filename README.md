@@ -41,4 +41,14 @@ it reaches a cumulative of 1000000 total spends(We should have 4 rows in the o/p
 9- which city took least number of days to reach its 500th transaction after the first transaction in that city.
 
 
+# Data Description
 
+The dataset likely contains various features related to credit card spending habits, such as:
+
+Customer ID: Unique identifier for each customer.
+Age: Age of the customer.
+Gender: Gender of the customer (male/female).
+Income: Annual income of the customer.
+Spending Score: Score assigned based on spending behavior.
+Credit Limit: Maximum credit limit assigned to the customer.
+Transaction Count: Number of transactions made by the customer.
