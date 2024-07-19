@@ -7,7 +7,7 @@ This analysis tells in great detail just exactly how the Indian spends by presen
 
 The variety of factors enables researchers to uncover deeper patterns in consumer spending and interesting relationships between different data sets that offer valuable business insights. This information will be helpful whether you're looking to understand more about consumer preferences or are just curious to investigate objective data analysis methods, having this information at your disposal will be beneficial.  This information will undoubtedly bring light beyond what is apparently expected. 
 
-# download credit card transactions dataset from below link :
+# Download Credit Card Transactions Dataset from below link :
 https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 
 Import the dataset in sql server with table name: credit_card_transcations
